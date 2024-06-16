@@ -15,6 +15,12 @@ Este proyecto es una aplicación web desarrollada en Laravel 10 que permite obte
 
 Sigue estos pasos para configurar y ejecutar el proyecto localmente.
 
+### Clonar el Repositorio
+
+```bash
+git clone https://github.com/mathirus/broobe-challenge
+cd broobe-challenge
+```
 
 ### Instalar Dependencias de PHP
 
