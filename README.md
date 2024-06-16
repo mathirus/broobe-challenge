@@ -15,12 +15,6 @@ Este proyecto es una aplicación web desarrollada en Laravel 10 que permite obte
 
 Sigue estos pasos para configurar y ejecutar el proyecto localmente.
 
-### Clonar el Repositorio
-
-```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
-```
 
 ### Instalar Dependencias de PHP
 
@@ -73,6 +67,7 @@ php artisan migrate
 ```bash
 php artisan db:seed
 ```
+
 
 ### Compilar los Activos
 
