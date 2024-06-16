@@ -18,8 +18,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto localmente.
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/mathirus/broobe-challenge
+cd broobe-challenge
 ```
 
 ### Instalar Dependencias de PHP
