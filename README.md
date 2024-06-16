@@ -49,6 +49,13 @@ cp .env.example .env
 ```
 
 
+### Cree la base de datos broobe
+
+```bash
+create database broobe
+```
+
+
 ### Generar la Clave de la Aplicación
 
 ```bash
