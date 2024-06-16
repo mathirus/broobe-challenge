@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.fade-in-down {
+    opacity: 0;
+    transform: translateY(-20px);
+    animation: fadeInDown 0.3s ease-out forwards;
+}
+
+@keyframes fadeInDown {
+    from {
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.inset-0 {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.text-indigo-600 {
+    color: #4f46e5;
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
+
+
+
+.fade-in-down {
+    opacity: 0;
+    transform: translateY(-20px);
+    animation: fadeInDown 0.3s ease-out forwards;
+}
+
+@keyframes fadeInDown {
+    from {
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.inset-0 {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.text-indigo-600 {
+    color: #4f46e5;
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
